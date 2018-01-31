@@ -2,6 +2,7 @@
 
 The problem has beed disovered and reported in ODK Collect: https://github.com/opendatakit/collect/issues/1782
 Wrong first value is visible if a range of the NumberPicker is:
+
 1 - 10 then 10 is displayed instead of 1
 1 - 11 then 11 is displayed instead of 1
 1 - 12 then 12 is displayed instead of 1 etc
