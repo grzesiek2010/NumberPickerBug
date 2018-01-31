@@ -1,6 +1,6 @@
 # NumberPickerBug
 
-The problem has beed disovered and reported in ODK Collect: https://github.com/opendatakit/collect/issues/1782
+The problem has been discovered and reported in ODK Collect: https://github.com/opendatakit/collect/issues/1782
 Wrong first value is visible if a range of the NumberPicker is:
 
 1 - 10 then 10 is displayed instead of 1
